@@ -6,7 +6,7 @@
   "id": "did:web:ManjunathBhagwat12.github.io:certify-did:certify_did",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkncuCgaxMFcYcDkNCoCLutS44tSLmW8tXaaLBSfuBYfzt",
+      "publicKeyMultibase": "z6MkhPsoDy7d2hr1QJx4FY6bUBgQLLuJfGJRTkcQTkBpDQXJ",
       "controller": "did:web:ManjunathBhagwat12.github.io:certify-did:certify_did",
       "id": "did:web:ManjunathBhagwat12.github.io:certify-did:certify_did#key-0",
       "type": "Ed25519VerificationKey2020",
